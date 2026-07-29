@@ -2,6 +2,14 @@
 
 # Tomato Leaf Disease Classifier: Leaf Mold vs Septoria Leaf Spot
 
+# Contributors:
+## Robinson Ekemini Kenneth - 23/EG/FE/656
+## Wilson, Deborah Ezekiel - 22/EG/FE/646
+## Philip, Edidiong Linus - 23/EG/FE/036
+## Blessing Anietie James - 23/EG/FE/046
+## Uko, Augustine Stanislaus - 23/EG/FE/006
+## Umoh, Uyai Marttins - 22/EG/FE/636
+
 Binary image classifier that distinguishes Tomato Leaf Mold from Tomato
 Septoria Leaf Spot, built with transfer learning on EfficientNetB0.
 
