@@ -6,7 +6,7 @@ from PIL import Image
 MODEL_PATH = "models/efficientnet_transfer_best.keras"
 IMAGE_HEIGHT = 224
 IMAGE_WIDTH = 224
-CLASS_NAMES = ["Leaf Mold", "Septoria Leaf Spot"]  # alphabetical order, matches image_dataset_from_directory
+CLASS_NAMES = ["Leaf Mold", "Septoria Leaf Spot"] 
 CONFIDENCE_FLAG_THRESHOLD = 0.65  # below this, treat the prediction as low-confidence
 
 
