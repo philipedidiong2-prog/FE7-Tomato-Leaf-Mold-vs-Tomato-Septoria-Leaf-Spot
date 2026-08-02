@@ -9,6 +9,7 @@
 ## Blessing Anietie James - 23/EG/FE/046
 ## Uko, Augustine Stanislaus - 23/EG/FE/006
 ## Umoh, Uyai Marttins - 22/EG/FE/636
+## ESSIEN CELAB ANIEKAN - 23/EG/FE/026
 
 Binary image classifier that distinguishes Tomato Leaf Mold from Tomato
 Septoria Leaf Spot, built with transfer learning on EfficientNetB0.
